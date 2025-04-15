@@ -1,4 +1,4 @@
-### Hi, I'm Hlib 👋
+### Hi 👋
 
 💻 **Programmer** | ☕️ **Java Dev** | 🐍 **Python Enthusiast**
 
